@@ -8,7 +8,7 @@
  <br><br>
 
 - 🔭 I currently work as a front end developer
-- 🌱 I’m currently learning NextJs and Tailwind CSS
+- 🌱 I’m currently learning Go (Golang)
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
