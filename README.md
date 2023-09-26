@@ -7,7 +7,7 @@
  </div>
  <br><br>
 
-- 🔭 I currently work as a front end developer
+- 🔭 I currently work as a full stack developer
 - 🌱 I’m currently learning React Native
 
 <div align="center">
