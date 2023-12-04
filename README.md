@@ -8,7 +8,7 @@
  <br><br>
 
 - 🔭 I currently work as a full stack developer
-- 🌱 I’m currently learning android (Java/Kotlin)
+- 🌱 I’m currently learning Java
 
 <div align="center">
   <a>
